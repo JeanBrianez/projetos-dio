@@ -1,0 +1,3 @@
+[submodule "C#/Cadastro de Séries em Memória/cadastro-memoria"]
+	path = "C#/Cadastro de Séries em Memória/cadastro-memoria"
+	url = https://github.com/JeanBrianez/cadastro-memoria.git
